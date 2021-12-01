@@ -1,6 +1,6 @@
 # Spotify-Project
 
-Personal Project
+Personal Project predicting song popularity on spotify.
 
 # Project Overview
 
